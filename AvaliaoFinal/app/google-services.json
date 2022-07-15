@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "531553806409",
+    "project_id": "avaliacaofinal-d80aa",
+    "storage_bucket": "avaliacaofinal-d80aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531553806409:android:30af278bd70dda8ff2f798",
+        "android_client_info": {
+          "package_name": "com.example.avaliaofinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531553806409-c38mas07prjngl6vco839gujhijl94mn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ-lGzJ9xhGkeuD7bqTGVSAtMStE_aZ2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531553806409-c38mas07prjngl6vco839gujhijl94mn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
